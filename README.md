@@ -8,6 +8,11 @@
 
     INTEL 32 Bit Processor Or Higher.
 
-<h3 tabindex="-1" id="user-content-user-interface-" dir="auto">USER INTERFACE :</h3>
+<h3><B>USER INTERFACE :</B></h3>
 
     Command Line Interface.
+
+
+<h3><B>TECHNOLOGY USED :</B></h3>
+
+    System Programming Using C.
