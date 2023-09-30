@@ -17,4 +17,4 @@
 
     System Programming Using C.
 
-<h1 tabindex="-1" id="user-content-about-customized-virtual-file-system" dir="auto">ABOUT CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
+<h1 >ABOUT CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
