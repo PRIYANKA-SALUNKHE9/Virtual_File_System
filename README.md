@@ -12,7 +12,7 @@
 ## Technology Used
 - System Programming Using C.
 
-## About Customized Virtual File System
+## <h1 align="center"> About Customized Virtual File System <h1>
 
 The Customized Virtual File System is a project that emulates all the data structures used by an operating system to manage file system-oriented tasks. It operates in a virtual environment by maintaining all records in primary storage (RAM).
 
